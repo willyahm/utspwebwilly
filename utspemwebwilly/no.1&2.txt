@@ -1,0 +1,51 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+
+Jawab : Secara sederhana, sebuah framework dalam pengembangan aplikasi adalah kerangka kerja atau struktur yang menyediakan aturan, konsep, dan alat-alat yang membantu pengembang dalam membangun aplikasi dengan lebih cepat dan terstruktur. Ini seperti fondasi atau dasar yang sudah dibangun sebelumnya, sehingga pengembang tidak perlu memulai dari nol setiap kali membuat aplikasi. atau lebih sederhana nya frame work adalah situs atau aplikasi yang berisi kumpulan kodingan yang bisa kita kopas , sehingga memudahkan membuat projek.
+
+Mari kita analogikan dengan membangun rumah:
+
+1. Tanpa Framework:
+   Bayangkan jika membangun rumah tanpa rencana atau fondasi yang sudah ada. Kita harus memikirkan setiap detail dari awal, termasuk cara membangun dinding, lantai, atap, dan lain-lain. Ini bisa menjadi tugas yang rumit dan memakan waktu.
+
+2. Dengan Framework
+   Sekarang, bayangkan jika kita memiliki rencana atau kerangka kerja yang sudah menyediakan panduan dan aturan dasar. Kita mungkin memiliki cetak biru atau panduan yang memberi tahu di mana harus meletakkan dinding, bagaimana cara menyusun atap, dan sebagainya. Dengan bantuan ini, Kita dapat membangun rumah lebih cepat dan dengan lebih sedikit usaha.
+
+Dalam dunia pengembangan aplikasi, framework memberikan:
+
+- Struktur:
+  Framework menyediakan struktur dasar untuk aplikasi, memberi tahu pengembang di mana meletakkan komponen-komponen utama.
+
+- Aturan dan Konvensi:
+  Framework menyediakan aturan dan konvensi yang membantu pengembang menulis kode yang terstruktur dan mudah dimengerti.
+
+- Alat Bantu:
+  Framework sering menyertakan alat-alat bantu atau library yang dapat digunakan pengembang untuk tugas-tugas umum, menghemat waktu dan usaha.
+
+- Kecepatan Pengembangan:
+  Dengan menggunakan framework, pengembangan aplikasi dapat menjadi lebih cepat karena banyak aspek dasar sudah diatasi.
+
+Contoh framework populer dalam pengembangan aplikasi web termasuk Django dan Flask untuk Python, Laravel untuk PHP, dan Ruby on Rails untuk Ruby. Ini membantu pengembang membangun aplikasi web dengan lebih efisien karena banyak aspek dasar sudah ditangani oleh framework.
+
+2. 
+a. Sebutkan tema proyek yang sedang digarap!
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+Jawab :
+
+	Final-Project test
+1)	Sebutkan tema proyek yang sedang digarap! 
+	 "Pembuatan Sistem Presensi Sekolah Berbasis Web di SMK Pakusarakan Cikampek"
+2)	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+	Arya Sentana Prasetyo	=> Membuat Laporan/Dokumentasi
+	Risky Mawa Santoso	=> Membuat Program/Ngoding
+	Willy Ahmad Khoiri	=> Pembuatan Database
+3)	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+	 Proses presensi siswa di SMK Pakusarakan Cikampek dilakukan setiap hari. Di setiap kelas disediakan buku absensi oleh TU, yang nanti akan diisi oleh guru masing-masing kelas. Pada akhir semester setiap wali kelas akan melakukan rekap data presensi untuk melaporkan kehadiran siswa. Karena kurangnya ketelitian dan banyaknya siswa, sering terjadi kesalahan dalam melakukan perhitungan presensi. Karena presensi masih berupa arsip, perhitungan dilakukan dengan merekap dan mencocokkan data pada masing-masing arsip. Menyebabkan proses mengolah data menjadi lama, dan sangat memakan banyak waktu. 
+	Jadi permasalahan di SMK Pakusarakan Cikampek, yaitu presensi siswa yang telah ada masih belum bekerja dengan baik dan tidak efisien. Untuk itu kita memerlukan sistem baru yang sudah optimal sehingga kegiatan pencatatan dan juga perhitungan absensi siswa dapat dilakukan dengan sistematis, cepat dan akurat.
+	Maka, berdasarkan penejelasan di atas kita akan membuat sebuah sistem presensi siswa berbasis web pada SMK Pakusarakan Cikampek yang saat ini masih menggunakan sistem absensi manual
